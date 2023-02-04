@@ -1,12 +1,12 @@
 package module
 
 type TwoNumbers struct {
-	a, b int64
+	A, B int64
 }
 
 func Sum(numbers TwoNumbers) int64 {
-	return numbers.a + numbers.b
+	return numbers.A + numbers.B
 }
 func Product(numbers TwoNumbers) int64 {
-	return numbers.a * numbers.b
+	return numbers.A * numbers.B
 }
