@@ -1,6 +1,8 @@
 package module
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func PrintHello() {
 	fmt.Print("Hello")
