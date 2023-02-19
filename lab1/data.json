@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "User1",
+      "password": "123"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "item1",
+      "price": 20,
+      "rating": 0
+    },
+    {
+      "id": 1,
+      "name": "item2",
+      "price": 25,
+      "rating": 0
+    },
+    {
+      "id": 2,
+      "name": "item3",
+      "price": 20,
+      "rating": 5
+    }
+  ]
+}
